@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **talha5797@gmail.com**
 
-- ⚡ Fun fact **I love huskies and pineapple pizzas**
+- ⚡ Fun fact **I love 🐕 and 🍍-🍕**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
