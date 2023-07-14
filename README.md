@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
+lsd<h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A software engineer who develops mobile apps from Turkey. At the same time violinist and author</h3>
 
 - 🌱 I’m currently learning **Kotlin**
