@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A software engineer who develops mobile apps from Turkey. At the same time violinist and author</h3>
 
-- 🌱 I’m currently workin on  **Kotlin** and Flutter
+- 🌱 I’m currently working on  **Kotlin** and Android.
 
 - 👨‍💻 All of my projects are available at [https://github.com/infernotlc?tab=repositories](https://github.com/infernotlc?tab=repositories)
 
