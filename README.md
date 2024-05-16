@@ -20,6 +20,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYqPshtcc72LfIovmL7yYsotZbN8e67Ck10WVIux1e6WjjkdgCFH5_KWRB9RfBKogO6vJgt1peMuuqEyUBsMv20xohGPyZFOBiuLU-Rn27Eq33biA0lUObGvd8ToAnNuygNSoRBpBmltRADd0vpaMXGklP7L_xB9LqIlZ1fjSN6vK1i2vc_0KP-aTo/w1200-h630-p-k-no-nu/Android%20Studio%20-%20Social.png" alt="kotlin" width="40" height="40"/>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
       <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1368/PNG/512/-android_89757.png" alt="kotlin" width="40" height="40"/>
      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://static.platzi.com/media/user_upload/Jetpack_logo-2-04c3fdd5-545c-4881-a2cd-2f5d1d9b4299.jpg" alt="android" width="40" height="40"/> </a> 
