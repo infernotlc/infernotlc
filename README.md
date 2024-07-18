@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently working on  **Kotlin** and Android.
 
-- 👨‍💻 All of my projects are available at [https://github.com/infernotlc?tab=repositories](https://github.com/infernotlc?tab=repositories)
-
 - 📝 I regularly write articles on [https://medium.com/@talhatlc](https://medium.com/@talhatlc)
 
 - 📫 How to reach me **talha5797@gmail.com**
-
-- ⚡ Fun fact **I love 🐕 and 🍍-🍕**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
