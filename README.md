@@ -18,9 +18,7 @@
 <p align="center"> 
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/ars_yeon/post/3d3ab1e1-d38d-42dc-9aa1-e521eea5a0d6/image.png" alt="kotlin" width="40" height="40"/>
      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1368/PNG/512/-android_89757.png" alt="kotlin" width="40" height="40"/>
      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://static.platzi.com/media/user_upload/Jetpack_logo-2-04c3fdd5-545c-4881-a2cd-2f5d1d9b4299.jpg" alt="android" width="40" height="40"/> </a> 
-          
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src=https://static.thenounproject.com/png/683587-200.png alt="android" width="40" height="40"/> </a>
            <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </a>
           <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
